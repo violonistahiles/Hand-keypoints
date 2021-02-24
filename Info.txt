@@ -1,0 +1,11 @@
+Train dataset (images) - https://drive.google.com/file/d/1C-jtdYPHtnJX7hmLjQBHDdqQBp0OUk22/view?usp=sharing
+
+Train dataset (data) - https://drive.google.com/file/d/1zYM2Pv5Xv48Pu2fwY0AJquLQb7DG_-dv/view?usp=sharing
+
+Val dataset (images) - https://drive.google.com/file/d/1CzHqg_yONM-wJWUIR1s-P9lrFueBykr2/view?usp=sharing
+
+Val dataset (data) - https://drive.google.com/file/d/1xyWrM-pF9y87dLcKsinT0fF0ZHIjsJzp/view?usp=sharing
+
+HRNet weights - https://drive.google.com/file/d/1tS9DpQOSO85EB_dALChDfDgbP56PeoAi/view?usp=sharing
+
+YOLOv5 weights - https://drive.google.com/file/d/1WEx5vAhdkDaFh06sxbur7AIgJhcPh6iW/view?usp=sharing
