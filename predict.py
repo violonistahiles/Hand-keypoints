@@ -29,12 +29,10 @@ def predict(file_path, pred_path, module_dir, draw_bbox=False, box_tr=0.7):
     keypoint_net = load_keypoint_net(module_dir).to(device)
 
     if file_format in image_formats:
-
         pred_path = predict_image(file_path, pred_path, yolov5, keypoint_net, device,
                                   draw_bbox=draw_bbox, box_tr=box_tr)
 
     elif file_format in video_formats:
-
         pred_path = predict_video(file_path, pred_path, yolov5, keypoint_net, device,
                                   draw_bbox=draw_bbox, box_tr=box_tr)
 
